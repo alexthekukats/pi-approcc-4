@@ -3,3 +3,9 @@ F:\Users\Alex\Documents\C# Progik\pi közelítés 4\pi közelítés 4\bin\Debug\
 F:\Users\Alex\Documents\C# Progik\pi közelítés 4\pi közelítés 4\bin\Debug\pi közelítés 4.pdb
 F:\Users\Alex\Documents\C# Progik\pi közelítés 4\pi közelítés 4\obj\Debug\pi közelítés 4.exe
 F:\Users\Alex\Documents\C# Progik\pi közelítés 4\pi közelítés 4\obj\Debug\pi közelítés 4.pdb
+D:\Alex\Dokkok\GitHub\pi_kozelito4\pi közelítés 4\bin\Debug\pi közelítés 4.exe
+D:\Alex\Dokkok\GitHub\pi_kozelito4\pi közelítés 4\bin\Debug\pi közelítés 4.pdb
+D:\Alex\Dokkok\GitHub\pi_kozelito4\pi közelítés 4\obj\Debug\pi közelítés 4.csprojResolveAssemblyReference.cache
+D:\Alex\Dokkok\GitHub\pi_kozelito4\pi közelítés 4\obj\Debug\pi közelítés 4.csproj.CoreCompileInputs.cache
+D:\Alex\Dokkok\GitHub\pi_kozelito4\pi közelítés 4\obj\Debug\pi közelítés 4.exe
+D:\Alex\Dokkok\GitHub\pi_kozelito4\pi közelítés 4\obj\Debug\pi közelítés 4.pdb
